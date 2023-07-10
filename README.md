@@ -11,3 +11,8 @@ Sentiment Analysis, we used the Long Short Term Memory(LSTM) Algorithm. The revi
 TripAdvisor website using the Selenium library in Python. The model also sends an automated email to the user’s
 email address with information about recommended clustered locations. This is done using Python’s “smtplib”
 module, which employs the Simple Mail Transfer Protocol.
+![image](https://github.com/VandanaVipparthi/SmartTravelPlanner/assets/79081616/e80be64d-188d-4604-b04d-aabb691c9a96)
+![image](https://github.com/VandanaVipparthi/SmartTravelPlanner/assets/79081616/e40ef6e5-e8e7-4295-9e6a-dbb81f8dc60b)
+![image](https://github.com/VandanaVipparthi/SmartTravelPlanner/assets/79081616/a82b9407-a509-4875-b010-edf2d28ce1f4)
+![image](https://github.com/VandanaVipparthi/SmartTravelPlanner/assets/79081616/3ad9b2c3-1d4a-46c2-b3d2-cc3f3b372ca1)
+![image](https://github.com/VandanaVipparthi/SmartTravelPlanner/assets/79081616/ba801eb9-daef-40bf-8da2-1a9a3fd03792)
